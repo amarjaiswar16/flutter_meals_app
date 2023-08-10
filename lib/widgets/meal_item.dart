@@ -31,7 +31,7 @@ class MealItem extends StatelessWidget {
         onSelectMeal(meal);
       },
       child: Card(
-        margin: EdgeInsets.all(8),
+        margin: const EdgeInsets.all(8),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(12),
         ),
