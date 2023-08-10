@@ -4,52 +4,52 @@ import 'package:meals/models/meal.dart';
 
 // Constants in Dart should be written in lowerCamelcase.
 const availableCategories = [
-  Category(
+  iCategory(
     id: 'c1',
     title: 'Italian',
     color: Colors.purple,
   ),
-  Category(
+  iCategory(
     id: 'c2',
     title: 'Quick & Easy',
     color: Colors.red,
   ),
-  Category(
+  iCategory(
     id: 'c3',
     title: 'Hamburgers',
     color: Colors.orange,
   ),
-  Category(
+  iCategory(
     id: 'c4',
     title: 'German',
     color: Colors.amber,
   ),
-  Category(
+  iCategory(
     id: 'c5',
     title: 'Light & Lovely',
     color: Colors.blue,
   ),
-  Category(
+  iCategory(
     id: 'c6',
     title: 'Exotic',
     color: Colors.green,
   ),
-  Category(
+  iCategory(
     id: 'c7',
     title: 'Breakfast',
     color: Colors.lightBlue,
   ),
-  Category(
+  iCategory(
     id: 'c8',
     title: 'Asian',
     color: Colors.lightGreen,
   ),
-  Category(
+  iCategory(
     id: 'c9',
     title: 'French',
     color: Colors.pink,
   ),
-  Category(
+  iCategory(
     id: 'c10',
     title: 'Summer',
     color: Colors.teal,
